@@ -142,10 +142,10 @@ export default function CreatePage() {
               ))}
             </select>
           </div>
-          <div>
+          {/* <div>
             <label style={{ visibility: 'hidden' }}>spacer</label>
             <div className="small">Stored in your local time as ISO (UTC) under the hood.</div>
-          </div>
+          </div> */}
         </div>
 
         <div>
